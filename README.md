@@ -6,10 +6,10 @@
 
 ## Recursos
 - CRUD completo para Clientes:
-  - Criar, listar, atualizar e excluir médicos.
+  - Criar, listar, atualizar e excluir clientes.
 - CRUD completo para Piscinas:
-  - Criar, listar, atualizar e excluir pacientes.
+  - Criar, listar, atualizar e excluir piscinas.
 - CRUD completo para Rotas:
-  - Agendar, listar, atualizar e cancelar consultas.
+  - Agendar, listar, atualizar e cancelar rotas.
  
 O sistema permite também o cadastro de rota, sendo possível selecionar o dia, o turno e as piscinas que serão visitadas durante esse período.
